@@ -9,4 +9,3 @@ Greg LeBoug
 Gregoire SonFils
 "Oe c'est le fils de greg"
 Greg Normal
-"Ok"
